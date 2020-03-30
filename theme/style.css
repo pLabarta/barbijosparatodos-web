@@ -33,3 +33,10 @@ main {
     /* margin-top: 80px; */
 /* } */ 
 
+.texto {
+    padding-top: 15px;
+}
+
+img.barbijo {
+    max-width: 100%;
+}
